@@ -1,1 +1,15 @@
 /* your code */
+.row1{
+	background-color: blue;
+	color: white;
+}
+.row3,.row5{
+	background-color: lightgray;
+	
+}
+tr{
+	text-align: center;
+}
+th,td{
+	padding: 5px
+}
